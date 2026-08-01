@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#Ignore all files from artifacts and logs directories
+artifacts/  
+
+#Ignore all files from folder mlruns
+mlruns/
+
